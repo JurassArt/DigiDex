@@ -78,7 +78,7 @@ Support this project by following the work of these people, all of them allow me
 
 ## About digimon
 
-Digimon, Digital Monsters, and all related characters and monsters are the property of Akiyoshi Hondo and Toei Animation. Bandai too. This fanart page is intended for entertainment purposes only.
+Digimon, Digital Monsters, and all associated characters and creatures are the property of Akiyoshi Hondo, Toei Animation, and Bandai. This fan art page is for entertainment purposes only.
 
 <hr>
 
