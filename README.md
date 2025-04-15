@@ -84,4 +84,4 @@ Digimon, Digital Monsters, and all related characters and monsters are the prope
 
 ## License
 
-See the [LICENSE](https://github.com/JurassArt/DigiDex/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/JurassArt/DigiDex/blob/main/LICENSE) file.
