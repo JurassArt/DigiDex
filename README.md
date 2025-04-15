@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SergioGranSol/digidex">
+  <a href="https://github.com/JurassArt/DigiDex">
     <img src="resources/img/name.png">
   </a>
 </p>
@@ -12,7 +12,7 @@ A fanmade visual guide for digimon and its evolutions
 
 Digidex is a static page that compiles basic information about digimon like stages, attributes, types and more. This mini project is made with passion for all those people who like those creatures that once brought us joy playing its video games, card games, reading its manga or watching its anime. <a href="https://jurassart.github.io/DigiDex/" target="_blank">Show me page</a>
 
-<a href="https://sergiogransol.github.io/digidex/" target="_blank">
+<a href="https://jurassart.github.io/DigiDex/" target="_blank">
   <img src="resources/img/preview.png">
 </a>
 
@@ -62,7 +62,7 @@ Support this project by following the work of these people, all of them allow me
 
 **Programmer**
 
-- <a target="_blank" href="https://github.com/SergioGranSol">SergioGranSol (GitHub)</a>
+- <a target="_blank" href="https://github.com/JurassArt">JurassArt (GitHub)</a>
 
 <hr>
 
@@ -84,4 +84,4 @@ Digimon, Digital Monsters, and all related characters and monsters are the prope
 
 ## License
 
-See the [LICENSE](https://github.com/SergioGranSol/digidex/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/JurassArt/DigiDex/blob/master/LICENSE) file.
